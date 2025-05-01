@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:stone"
+  ],
+  "result": {
+    "id": "stonecobbler:pebble",
+    "count": 4
+  }
+}
