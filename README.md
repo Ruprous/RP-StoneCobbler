@@ -1,6 +1,8 @@
 # RP-StoneCobbler
-
-![icon](./icon.png)
+---
+📄 [Click here for the English README](./README-EN.md)  
+---
+![icon](./icon.png)   
 
 **石をストーンカッターで砕いて「石礫（Pebble）」に！**  
 さらに、4つの石礫をクラフトすれば「丸石（Cobblestone）」に戻せる、  
