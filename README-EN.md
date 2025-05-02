@@ -1,4 +1,4 @@
-# 🪨 RP-StoneCobbler
+# RP-StoneCobbler
 
 ![icon](./icon.png)
 
