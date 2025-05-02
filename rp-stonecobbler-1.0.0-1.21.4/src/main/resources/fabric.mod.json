@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "stonecobbler",
+	"version": "${version}",
+	"name": "RP-StoneCobbler",
+	"description": "Turns stone into pebbles via stonecutter, then recombine to cobblestone!",
+	"authors": [
+	  "Ruprous"
+	],
+	"contact": {
+	  "homepage": "https://x.com/ruprous",
+	  "sources": "https://github.com/Ruprous/RP-StoneCobbler"
+	},
+	"license": "MIT",
+	"icon": "assets/stonecobbler/icon.png",
+	"environment": "*",
+	"entrypoints": {
+	  "main": [
+		"com.ruprous.stonecobbler.RPStoneCobbler"
+	  ]
+	},
+	"mixins": [],
+	"depends": {
+	  "fabricloader": ">=0.16.10",
+	  "minecraft": "~1.21.4",
+	  "java": ">=21",
+	  "fabric-api": "*"
+	}
+  }
+  
