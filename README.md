@@ -1,5 +1,4 @@
-# RP-StoneCobbler
----
+# RP-StoneCobbler   
 📄 [Click here for the English README](./README-EN.md)  
 ---
 ![icon](./icon.png)   
